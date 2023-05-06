@@ -1,6 +1,4 @@
 /**
- * Multi-threaded Sudoku Solution Validator by Sarmad Hashmi
- *
  * This program defines a sudoku puzzle solution and then determines whether 
  * the puzzle solution is valid using 27 threads. 9 for each 3x3 subsection, 9
  * for the 9 columns, and 9 for the 9 rows. Each thread updates their index in 
